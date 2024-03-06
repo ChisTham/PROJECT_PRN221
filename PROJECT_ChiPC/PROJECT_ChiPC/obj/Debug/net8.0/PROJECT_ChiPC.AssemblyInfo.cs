@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROJECT_ChiPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d698629e85698b92b7483d5f4e4d21ce547e0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROJECT_ChiPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROJECT_ChiPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
